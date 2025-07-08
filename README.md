@@ -37,7 +37,7 @@ These files are re-generated and committed **once daily**, pulling the latest da
    ```bash
    git clone https://github.com/Western-Carolina-University-CAS/Zentra-Weather-Data.git
    ```
-3. **Download a single CSV file with curl**
+3. **Download via curl**
 
    ```bash
    curl -O https://github.com/Western-Carolina-University-CAS/Zentra-Weather-Data/raw/refs/heads/main/data/zentra_weather_data.zip
