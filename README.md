@@ -71,4 +71,4 @@ All measurement columns use the format:
 - **Unit**: The reporting units (e.g., °F, kPa, mm)  
 - **Device SN**: The serial number of the sensor that produced the measurement (e.g., ATM-410005328)  
 
-For example, `Air Temperature (°F) (ATM-410005328)` represents the air temperature in Fahrenheit, measured by sensor serial `ATM-410005328`.`
+For example, `Air Temperature (°F) (ATM-410005328)` represents the air temperature in Fahrenheit, measured by sensor serial `ATM-410005328`.
