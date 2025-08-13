@@ -10,7 +10,7 @@ Public CSV archive of historical and daily-updated Zentra environmental sensor r
 | -------------------- | --------- | ------------------------- | ------------------------------------------------------- |
 | Gribble Gap Riparian | z6-12561  | 35.3035251, -83.2058057   |                                                         |
 | Gribble Gap Upland   | z6-12514  | 35.3073691, -83.209171    |                                                         |
-| Cullowhee Creek      | z6-12516  | 35.3104179, -83.1874281   | ⚠️ Connection issues – data not current (last upload: June 2025) |
+| Cullowhee Creek      | z6-12516  | 35.3104179, -83.1874281   |                                                         |
 | Long Branch Upland   | z6-12512  | 35.3044209, -83.208245    | ⚠️ Connection issues – data not current (last upload: April 2025) |
 | Long Branch Riparian | z6-12513  | 35.3047241, -83.2018152   |                                                         |
 
